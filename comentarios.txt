@@ -1,0 +1,1 @@
+Practicar comandos: git add, git rm(cached o no), git log, git show, git commit, git status, git diff, git reset(soft, hard y HEAD), git checkout
